@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe62494c-f481-4357-8c31-c84d82524eac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iRCX6HnBLmyHQJhDziL4gQOy0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SupermarketKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket_Pricing" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SupermarketKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SupermarketKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe62494c-f481-4357-8c31-c84d82524eac" name="Default Changelist" comment="" />
+      <created>1601861059618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601861059618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602353016204">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state x="1920" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602353016204" />
+    <state width="1234" height="198" key="GridCell.Tab.0.bottom" timestamp="1602352415301">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.0.bottom/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415301" />
+    <state width="1234" height="198" key="GridCell.Tab.0.center" timestamp="1602352415299">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.0.center/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415299" />
+    <state width="1234" height="198" key="GridCell.Tab.0.left" timestamp="1602352415298">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.0.left/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415298" />
+    <state width="1234" height="198" key="GridCell.Tab.0.right" timestamp="1602352415301">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.0.right/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415301" />
+    <state width="1234" height="198" key="GridCell.Tab.1.bottom" timestamp="1602352415305">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.1.bottom/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415305" />
+    <state width="1234" height="198" key="GridCell.Tab.1.center" timestamp="1602352415305">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.1.center/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415305" />
+    <state width="1234" height="198" key="GridCell.Tab.1.left" timestamp="1602352415303">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.1.left/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415303" />
+    <state width="1234" height="198" key="GridCell.Tab.1.right" timestamp="1602352415305">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state width="1234" height="198" key="GridCell.Tab.1.right/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1602352415305" />
+    <state x="1920" y="214" width="1014" height="554" key="new project wizard" timestamp="1601934769888">
+      <screen x="1920" y="0" width="1024" height="768" />
+    </state>
+    <state x="1920" y="214" width="1014" height="554" key="new project wizard/1920.0.1024.768/72.27.1848.1053@1920.0.1024.768" timestamp="1601934769888" />
+  </component>
+</project>
